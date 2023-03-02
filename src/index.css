@@ -1,0 +1,12 @@
+:root{
+    /*background: linear-gradient(to right,rgba(88, 88, 88, 0.9),#1f1f1f, rgba(88, 88, 88, 0.9));*/
+    background: rgba(51, 42, 42, 0.973);
+}
+
+.tooltip{
+    display: none;
+}
+
+.visual{
+max-width: 290px;
+}
